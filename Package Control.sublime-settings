@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"Asciidoctor",
+		"Automatic Backups",
+		"BracketFlasher",
+		"CMake",
+		"Color Schemes by carlcalderon",
+		"Git",
+		"GitGutter",
+		"Gnuplot",
+		"Markdown Table Formatter",
+		"MarkdownPreview",
+		"MultiEditUtils",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublimerge 3",
+		"Swift",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

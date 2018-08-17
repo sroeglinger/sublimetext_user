@@ -1,0 +1,6 @@
+{
+    "backup_dir": "~/Documents/SublimeText_AutoBackup.noindex",
+    "max_backup_file_size_bytes": 1048576, // = 1024 KB
+    "backup_on_open_file": true,
+    "backup_merge_command": ""
+}

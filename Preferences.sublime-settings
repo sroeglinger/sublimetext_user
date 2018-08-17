@@ -1,0 +1,31 @@
+{
+	"added_words":
+	[
+		"Röglinger"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 5,
+	"caret_extra_top": 5,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"scroll_past_end": true,
+	"soda_classic_tabs": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"wide_caret": true,
+	"word_wrap": "false"
+}
