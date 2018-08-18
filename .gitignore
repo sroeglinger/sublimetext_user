@@ -1,0 +1,20 @@
+# First, ignore everything
+*
+
+# Now, whitelist anything that's a directory
+# !*/
+
+# And all the file types you're interested in.
+# !*.one
+# !*.two
+# !*.etc
+
+# At last name specific files
+!Preferences.sublime-settings
+!Automatic Backups.sublime-settings
+!Package Control.sublime-settings
+!Sublimerge 3.sublime-settings
+!Terminal.sublime-settings
+!LICENSE.txt
+!README.md
+!.gitignore
